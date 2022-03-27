@@ -133,7 +133,8 @@ https://docs.microsoft.com/ja-jp/windows-hardware/test/hlk/getstarted/getstarted
 
 以降は、HLKでもVHLKでも同様に下記「手順 2:テスト システムへのクライアントのインストール」から始めることが出来ます。
 
-[手順 2:テスト システムへのクライアントのインストール](https://docs.microsoft.com/ja-jp/windows-hardware/test/hlk/getstarted/step-2--install-client-on-the-test-system-s-)
+[手順 2: テスト システムへのクライアントのインストール](https://docs.microsoft.com/ja-jp/windows-hardware/test/hlk/getstarted/step-2--install-client-on-the-test-system-s-)
+
 https://docs.microsoft.com/ja-jp/windows-hardware/test/hlk/getstarted/step-2--install-client-on-the-test-system-s-
 
 以上。
